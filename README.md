@@ -1,8 +1,4 @@
 # ⚡ Next.js DevOps Portfolio - Tokyo Neon Edition
-
-![Build Status](https://img.shields.io/badge/Build-Passing-success?style=for-the-badge&logo=jenkins)
-![Docker](https://img.shields.io/badge/Docker-Containerized-blue?style=for-the-badge&logo=docker)
-![AWS](https://img.shields.io/badge/Deployed%20on-AWS-orange?style=for-the-badge&logo=amazon-aws)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![Tailwind](https://img.shields.io/badge/Style-Tokyo%20Neon-cyan?style=for-the-badge&logo=tailwindcss)
 
